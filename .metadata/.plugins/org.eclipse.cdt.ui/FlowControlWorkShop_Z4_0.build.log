@@ -1,0 +1,11 @@
+17:43:14 **** Incremental Build of configuration Debug for project FlowControlWorkShop_Z4_0 ****
+make -j8 all 
+Invoking: Standard S32DS Print Size
+powerpc-eabivle-size --format=berkeley FlowControlWorkShop_Z4_0.elf
+   text	   data	    bss	    dec	    hex	filename
+   5408	     56	   7204	  12668	   317c	FlowControlWorkShop_Z4_0.elf
+Finished building: FlowControlWorkShop_Z4_0.siz
+ 
+
+17:43:15 Build Finished (took 281ms)
+
